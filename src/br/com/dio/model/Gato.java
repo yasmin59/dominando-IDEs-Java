@@ -8,7 +8,6 @@ public class Gato {
 	private String cor;
 	private Integer idade;
 	
-	
 	public Gato() {
 		super();
 	}
